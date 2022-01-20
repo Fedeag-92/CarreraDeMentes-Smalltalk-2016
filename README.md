@@ -18,8 +18,6 @@
   - openInWorld (Workspace). Ctrl + d (do it) para ejecutar el código.<br />
     ![alt imagenIniciar](https://github.com/Fedeag-92/CarreraDeMentes-Smalltalk-2016-/blob/main/Iniciar.JPG?raw=true)
   
-  
-
 ## Autores ✒️
 
 - **Federico Aguilera** - [Fedeag-92](https://github.com/Fedeag-92)
