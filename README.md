@@ -5,6 +5,7 @@
   _Esta es una aplicación del juego de mesa Carrera de Mentes, para jugar entre 3 y 6 jugadores._
   </br></br>
   ![alt ejemplo](https://github.com/Fedeag-92/CarreraDeMentes-Smalltalk-2016-/blob/main/ejemplo.JPG?raw=true)
+  ![alt clases](https://github.com/Fedeag-92/CarreraDeMentes-Smalltalk-2016/blob/main/Clases.JPG?raw=true)
 
 ## Construido con 🛠️
 
