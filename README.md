@@ -1,4 +1,4 @@
-# CarreraDeMentes-Smalltalk-2016-
+# CarreraDeMentes Smalltalk 2016
 
   Trabajo Práctico Final Libre para la materia Programación Orientada a Objetos de la Universidad Nacional del Comahue (UNCo).
 
