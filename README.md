@@ -12,10 +12,11 @@
 
 ## Instalación - Iniciar 🎲
 
-  - Arrastrar el archivo Squeak.
-  - FileIn.
-  
-  - openInWorld (Workspace).
+  - Arrastrar el archivo .st a Squeak.
+  - FileIn.<br />
+    ![alt imagenFileIn](https://github.com/Fedeag-92/CarreraDeMentes-Smalltalk-2016-/blob/main/FileIn.JPG?raw=true)
+  - openInWorld (Workspace). Ctrl + d (do it) para ejecutar el código.<br />
+    ![alt imagenIniciar](https://github.com/Fedeag-92/CarreraDeMentes-Smalltalk-2016-/blob/main/Iniciar.JPG?raw=true)
   
   
 
